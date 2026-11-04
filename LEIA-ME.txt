@@ -1,0 +1,25 @@
+SITE INSTITUCIONAL — 69.323.601 ALISSON TIAGO FONSECA LOPES
+
+Arquivos:
+- index.html: página principal de apresentação.
+- sobre.html: página institucional Sobre.
+- privacidade.html: Política de Privacidade.
+- termos.html: Termos de Uso.
+- style.css: estilos personalizados.
+- assets/: imagens fornecidas para o site.
+
+Como visualizar:
+1. Extraia todos os arquivos mantendo a estrutura de pastas.
+2. Abra index.html no navegador.
+3. Para publicar, envie a pasta inteira para a hospedagem (incluindo assets).
+
+Tecnologias:
+- HTML5, CSS3, Bootstrap 5.3.3 e Bootstrap Icons (CDNs).
+- Fonte Inter e Barlow Condensed (Google Fonts).
+
+Observações importantes antes de publicar:
+- Confira se razão social, CNPJ, endereço, telefone e e-mail estão corretos.
+- As páginas legais são modelos informativos iniciais, não substituem revisão jurídica.
+- Se instalar Google Analytics, Google Ads/remarketing, pixels ou outros cookies não essenciais, configure aviso/gestão de consentimento adequado à LGPD e atualize a Política de Privacidade.
+- As imagens são ilustrativas e não devem ser apresentadas como fotos de serviços efetivamente executados pela empresa se não forem.
+- O site não possui formulário de envio de dados; os contatos são feitos por telefone, e-mail ou WhatsApp.
